@@ -35,7 +35,7 @@ if ($position == "Staff") {
     ?>
     <div class="vertical-center">
         <a href="POS.php"><button class="button-55"><img src="image/order.png"><br><div class="menu_font">Place Sales Order</div></button></a>
-        <a href=""><button class="button-55"><img src="image/customer.png"><br><div class="menu_font">Customer Order Record</div></button></a>
+        <a href="orderRecord.php"><button class="button-55"><img src="image/customer.png"><br><div class="menu_font">Customer Order Record</div></button></a>
         <a href=""><button class="button-55"><img src="image/delivery.png"><br><div class="menu_font">Delivery</div></button></a>
     </div>
 

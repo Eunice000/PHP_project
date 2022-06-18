@@ -72,7 +72,7 @@ if (!empty($_POST)) {
             <th>Description</th>
             <th>Stock Quantity</th>
             <th>Price</th>
-            <th>Edit</th>
+            <th>Action</th>
         </tr>
         <?php
         require_once('conn.php');
